@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import myVideo from '../assets/myVideo.mp4'; // optional local video
+//import myVideo from '../assets/myVideo.mp4'; // optional local video
 
 function Videos() {
   // Load Twitter widgets.js once
